@@ -75,6 +75,7 @@ body{
     height: 400px;
     float: right;
     display: block;
+    padding-top: 26px;
 }
 
 .header_img_wrap img{
