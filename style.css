@@ -75,6 +75,7 @@ body{
     height: 400px;
     float: right;
     display: block;
+    padding-top: 26px;
 }
 
 .header_img_wrap img{
@@ -107,10 +108,6 @@ body{
     color: black;
     font-size: 30px;
     font-weight: bold;
-
-}
-.text_wrap h3{
-
 }
 .text_wrap p{
     color: #666;
@@ -159,6 +156,7 @@ body{
     height: 100%; background: rgb(34,193,195);
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(161,19,48,1) 32%, rgba(43,14,209,1) 62%, rgba(209,14,64,1) 89%); 
 }
+/*-----------end of sidebar---------------*/
 /*-------------footer----------*/
 .footer_bg{
     height: 30px;
@@ -174,3 +172,4 @@ body{
     font-size: 12px;
     padding: 10px;
 }
+/*----------end of footer-----------------/*
